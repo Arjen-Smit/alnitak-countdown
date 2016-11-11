@@ -1,0 +1,1 @@
+body{background-color:#fff;text-align:center}.countdown{display:block;padding-top:50vh;transform:translateY(-50%)}.countdown .item{font-size:120px;margin-right:40px;position:relative}.countdown .label{bottom:-20px;font-size:20px;left:50%;position:absolute;transform:translateX(-50%)}

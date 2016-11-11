@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+    text-align: center;
+}
+
+.countdown {
+    display: block;
+    padding-top: 50vh;
+    transform: translateY(-50%);
+    .item {
+        font-size: 120px;
+        position: relative;
+        margin-right: 40px;
+    }
+
+    .label {
+        position: absolute;
+        bottom: -20px;
+        font-size: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
