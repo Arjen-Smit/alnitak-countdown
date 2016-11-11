@@ -1,0 +1,11 @@
+{
+  "name": "alnitak-countdown",
+  "version": "1.0.0",
+  "main": "code/index.php",
+  "repository": {
+    "url": "git@github.com:Arjen-Smit/alnitak-countdown.git",
+    "type": "git"
+  },
+  "author": "Arjen Smit",
+  "license": "MIT"
+}
