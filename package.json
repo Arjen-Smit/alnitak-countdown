@@ -7,5 +7,15 @@
     "type": "git"
   },
   "author": "Arjen Smit",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-more-css": "^1.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0",
+    "jquery": "^3.1.1",
+    "jquery.countdown": "^1.2.5"
+  }
 }
